@@ -24,4 +24,6 @@ Get an AI-generated analysis of legislation
     1. Just give the whole chunk of data to the LLM, or is there cleaning that will help the analysis?
 1. Review available data, consider DB storage options.
 1. Create test web-based front-end to present data. This will probably benefit from really well-implemented search functionality.
-1. 
+1. Identify other APIs that could be useful in this endeavor.
+    1. Opensecrets
+    1. Propublica

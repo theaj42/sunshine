@@ -17,7 +17,7 @@ Get an AI-generated analysis of legislation
 
 ## Roadmap
 
-1. Build script to access the congress.gov API and test data pulls.
+1. ~~Build script to access the congress.gov API and test data pulls.~~
 1. Test summarizing / enriching the data via LLM.
     1. Local LLM vs online
     1. Implement method of finding related data. Labels?

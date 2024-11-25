@@ -1,4 +1,4 @@
 .env
 venv/
-.code-workpace
+*.code-workspace
 .DS_Store
